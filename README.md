@@ -1,9 +1,5 @@
 # React + TypeScript + Vite
 
-Sure, here's a simple README for your To-Do List component:
-
----
-
 # To-Do List React Component
 
 The To-Do List component is a simple interactive application built using React. It leverages the `useState` hook, the `map` function, and Bootstrap styling to create a visually highlighted to-do list.
