@@ -12,3 +12,6 @@ The To-Do List component is a simple interactive application built using React. 
 - Enables event handling with the `onClick` event to update the selected item index.
 - Employs conditional rendering to display the list of items or a message based on availability.
 
+  ![image](https://github.com/mahsan15/TodoList/assets/82739557/e53d5a99-e53f-45f0-8791-a6c2b03cdf77)
+
+
